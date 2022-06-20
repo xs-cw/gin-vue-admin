@@ -435,7 +435,7 @@ const getColumnFunc = async() => {
                 dataTypeLong: item.dataTypeLong && item.dataTypeLong.split(',')[0],
                 columnName: item.columnName,
                 comment: item.columnComment,
-                fieldSearchType: '',
+                fieldSearchType: '=',
                 dictType: ''
               })
             }
