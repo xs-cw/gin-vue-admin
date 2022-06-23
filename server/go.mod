@@ -3,7 +3,6 @@ module github.com/flipped-aurora/gin-vue-admin/server
 go 1.16
 
 require (
-	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 	github.com/aliyun/aliyun-oss-go-sdk v2.2.4+incompatible
 	github.com/aws/aws-sdk-go v1.44.40
 	github.com/baiyubin/aliyun-sts-go-sdk v0.0.0-20180326062324-cfa1a18b161f // indirect
